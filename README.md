@@ -22,7 +22,7 @@ Analyze historical stock data to predict future prices using machine learning te
 Download the dataset from [Kaggle](https://www.kaggle.com/datasets/amirmotefaker/stock-market-analysis-data) and place it in the `data/` folder.
 
 ### 4. Run the notebook script
-Open **Stockmarketanalysis.ipynb** in Jupyter Notebook or JupyterLab and follow along!
+Open https://github.com/RebeccaMorolong/stockpredictionanalysis.ipynb/tree/main in Jupyter Notebook or JupyterLab and follow along!
 
 ## 🧰 Requirements
 
